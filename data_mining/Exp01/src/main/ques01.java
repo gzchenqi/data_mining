@@ -10,6 +10,8 @@ import java.util.HashMap;
 
 public class ques01 {
     /**
+     * 此实验1有参考-贾剑超小组的代码 但大部分代码均为本人所敲且对部分代码有所改进
+     * 实验2是自己所写
      * 学生中家乡在Beijing的所有课程的平均成绩
      **/
     public static void main(String[] args) throws IOException {

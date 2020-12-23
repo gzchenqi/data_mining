@@ -9,6 +9,8 @@ import java.util.ArrayList;
 
 public class ques02 {
     /**
+     * 此实验1有参考-贾剑超小组的代码 但大部分代码均为本人所敲且对部分代码有所改进
+     * 实验2是自己所写
      * 学生中家乡在广州，课程1在80分以上，且课程10在9分以上的男同学的数量。
      **/
     public static void main(String[] args) throws IOException {
