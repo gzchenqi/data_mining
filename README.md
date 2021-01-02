@@ -31,8 +31,8 @@ util目录：存放静态工具类
 
 # Exp03目录说明
 
-mean目录：存放python代码
-mean目录/means.py: python主代码
-mean目录/test.data: 实验数据
-实验截图及问题.doc 存放截图及问题回答
+mean目录：存放python代码  
+mean目录/means.py: python主代码  
+mean目录/test.data: 实验数据  
+实验截图及问题.doc 存放截图及问题回答  
 
